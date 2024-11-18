@@ -34,8 +34,6 @@ I have had the privilege of working on a variety of impactful projects, such as:
 
 ## Research Experience
 
-## Research Experience
-======
 ### **Research Technician and Researcher at TAI - ESPOL**  
 *Guayaquil, Ecuador | Sept 2024 – Present*  
 At **TAI - ESPOL**, I work on advanced **autonomous systems** and **AI applications** in the **Smart Environments Technologies Lab**. My current research focuses on the application of **TinyML** techniques to **edge devices**, enabling real-time data processing for **IoT** systems. I am developing cutting-edge systems for autonomous navigation, using **SLAM** (Simultaneous Localization and Mapping) and **obstacle detection** techniques to enhance the capabilities of autonomous vehicles and systems. As part of my work, I contribute to both the development of **robotic systems** and research papers, with a focus on **AI**-driven solutions for smart environments.
