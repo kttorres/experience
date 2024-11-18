@@ -13,22 +13,22 @@ redirect_from:
 
 ## Education
 
-**B.S. in Mechatronics Engineering**
+* **B.S. in Mechatronics Engineering**
 
 **ESPOL - Escuela Superior Politécnica del Litoral**, *Guayaquil, Ecuador, 2023*
   * Focus on **robotics**, **AI**, and **Healthcare**.
 
-**International Baccalaureate (IB) Diploma**
+* **International Baccalaureate (IB) Diploma**
 
 **Nueve de Octubre School**, *Machala, Ecuador, 2017*
   * Focus on **business management** and **STEM subjects**.
     
-**Secondary Education**
+* **Secondary Education**
 
 **“La Inmaculada” School**, *Machala, Ecuador, 2012-2014*
   * Recognition for academic excellence and active participation in school clubs such as **Math Club** and **English Contests**.
     
-**Primary Education**
+* **Primary Education**
 
 **“La Inmaculada” School**, *Machala, Ecuador, 2004-2011*
   * Graduated with honors and was selected as **Flagbearer** for the National Pavilion.
@@ -39,7 +39,7 @@ redirect_from:
 
 * **Research Technician and Researcher**
 
-**Smart Environments Technologies Lab (TAI) 
+* **Smart Environments Technologies Lab (TAI)**
   
   **CTI - ESPOL**, *Guayaquil, Ecuador*
   Sept 2024 – Present
