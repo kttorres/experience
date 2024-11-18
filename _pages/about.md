@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Karen Torres-Medina | Robotics, AI, TinyML, and Autonomous Vehicles"
+title: "Karen Torres-Medina || Robotics, AI, TinyML, and Autonomous Vehicles"
 author_profile: true
 redirect_from: 
   - /about/
@@ -48,39 +48,10 @@ I taught **robotics** and **AI** to high school students, focusing on hands-on p
 
 ---
 
-## Skills
-- **Programming Languages**: Python, C++, Java, JavaScript, MATLAB
-- **Machine Learning Frameworks**: TensorFlow, PyTorch, Keras, OpenCV
-- **Embedded Systems**: Arduino, ESP32, Raspberry Pi, STM32
-- **AI & Robotics**: SLAM, Neural Networks, Autonomous Vehicles, AI-based Control Systems
-- **TinyML**: Edge device deployment, low-power AI solutions, real-time processing
-- **Tools**: Jupyter Notebook, Visual Studio Code, Anaconda, MATLAB, Google Colab
-- **IoT & Smart Environments**: Integration of IoT solutions for energy efficiency and automation
-- **3D Modeling**: Autodesk Inventor, Fusion 360, Tinkercad
-
----
-
 ## Current Research Projects
 - **Autonomous Navigation for Sailboats**: Developing a system for **unmanned autonomous vehicles** to navigate autonomously using **SLAM** and **obstacle detection**.
 - **TinyML for Healthcare**: Implementing **TinyML** models to run **machine learning algorithms** on low-cost, low-power devices for real-time health monitoring.
 - **AI-based Robotics**: Designing **robotic prosthetics** and **assistive devices** powered by **AI** to enhance mobility and accessibility.
-
----
-
-## Contact Me
-
-I am currently seeking opportunities for **graduate programs** (master's and PhD) in **robotics**, **artificial intelligence**, and **embedded systems**. If you are interested in collaborating or learning more about my work, feel free to reach out!
-
-- **Email**: [kttorres@espol.edu.ec](mailto:kttorres@espol.edu.ec)
-- **LinkedIn**: [Karen Torres Medina](https://www.linkedin.com/in/karen-thamara-torres-medina/)
-- **ORCID**: [0000-0001-9025-3674](http://orcid.org/0000-0001-9025-3674)
-- **GitHub**: [Karen-Torres-Medina](https://github.com/Karen-Torres-Medina)
-
----
-
-## Why Choose Me for Graduate Research?
-
-With a strong background in **robotics**, **AI**, and **TinyML**, I have demonstrated my ability to design and implement innovative solutions across various fields. My hands-on experience in **autonomous systems**, **edge devices**, and **AI integration** provides a solid foundation for my future academic and research endeavors. I am passionate about working on **cutting-edge technologies** and am eager to collaborate with institutions that foster innovation and excellence.
-
+  
 ---
 
