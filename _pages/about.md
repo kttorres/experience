@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Karen Torres-Medina || Robotics, AI, TinyML, and Autonomous Vehicles"
+title: "Karen Torres-Medina | Robotics, AI, TinyML, and Autonomous Vehicles"
 author_profile: true
 redirect_from: 
   - /about/
