@@ -148,7 +148,7 @@ Service and leadership
  * **Organizer of Educational Outreach Programs**
 
    *EDUCAR, Guayaquil, Ecuador, 2020-2023*
-  * Coordinated outreach programs to local high schools to promote **STEM** education. Organized events where  students presented their projects in **robotics**, **AI**, and **IoT** to inspire the next generation of engineers and scientists.
+   * Coordinated outreach programs to local high schools to promote **STEM** education. Organized events where  students presented their projects in **robotics**, **AI**, and **IoT** to inspire the next generation of engineers and scientists.
     
 * **Volunteer at Church Community Kitchen**
 
