@@ -17,13 +17,15 @@ redirect_from:
   * Focus on **robotics**, **AI**, and **Healthcare**.
 
 **International Baccalaureate (IB) Diploma**
-  * **Nueve de Octubre School**, Guayaquil, Ecuador, 2017
+  * **Nueve de Octubre School**, Machala, Ecuador, 2017
   * Focus on **business management** and **STEM subjects**.
+    
 **Secondary Education - “La Inmaculada” School**
-  * **Guayaquil, Ecuador**, 2013-2017
+  * *Machala, Ecuador*, 2012-2014
   * Recognition for academic excellence and active participation in school clubs such as **Math Club** and **English Contests**.
+    
 **Primary Education - “La Inmaculada” School**
-  * **Guayaquil, Ecuador**, 2004-2011
+  * *Machala, Ecuador*, 2004-2011
   * Graduated with honors and was selected as **Flagbearer** for the National Pavilion.
 
 ## Work Experience
@@ -92,4 +94,32 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ## Service and Leadership
+======
+* **President of CIAP (Artificial Intelligence Club)**
+  * **ESPOL**, Guayaquil, Ecuador | 2022-2023
+  * Led the **CIAP Club**, fostering collaboration and innovation in the fields of **AI** and **Machine Learning** among university students. Organized workshops, events, and hackathons to promote AI education and community engagement.
+
+* **Member of the Sustainability Club**
+  * **ESPOL**, Guayaquil, Ecuador | 2022-2023
+  * Contributed to projects focused on **sustainable technologies**, such as the development of **smart solutions** for energy efficiency and environmental impact reduction.
+
+* **Robotics Mentor**
+  * **EDUCAR**, Guayaquil, Ecuador | 2023
+  * Actively mentored students in **robotics**, guiding them through hands-on projects and teaching them the fundamentals of **AI**, **programming**, and **robot design**. Worked to inspire and cultivate interest in **STEM** fields among high school students.
+
+* **Member of Phycom Club (Physical Computing)**
+  * **ESPOL**, Guayaquil, Ecuador | 2022-2023
+  * Active member of **Phycom**, a club dedicated to **Physical Computing**. Participated in projects that involved **hardware** and **software integration** for building interactive systems. Developed prototypes combining **electronic circuits** with **physical computing** to create innovative solutions.
+
+* **Community Service - 3D Printing and Prosthesis Design**
+  * **Guayaquil, Ecuador** | 2021-2022
+  * Led **community service projects** focused on the **design and 3D printing of prosthetic hands and orthoses** for individuals in need. Worked with local healthcare providers and community organizations to create affordable and functional **3D-printed prosthetics**, providing improved mobility and quality of life for individuals with physical disabilities.
+ 
+ * **Organizer of Educational Outreach Programs**
+  * **EDUCAR**, Guayaquil, Ecuador | 2020-2023
+  * Coordinated outreach programs to local high schools to promote **STEM** education. Organized events where  students presented their projects in **robotics**, **AI**, and **IoT** to inspire the next generation of engineers and scientists.
+    
+* **Volunteer at Church Community Kitchen**
+  * **Guayaquil, Ecuador** | 2017-2020
+  * Volunteered at the **church community kitchen**, helping to prepare and distribute meals to those in need. This role involved working with a team to provide food assistance to underprivileged individuals and families in the local community, reinforcing my commitment to social welfare and community support.
