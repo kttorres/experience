@@ -6,7 +6,6 @@ permalink: /publication/2023-08-01-autonomous-navigation-sensailor
 excerpt: 'This paper presents the development of an autonomous navigation system for the intelligent sailboat Sensailor, utilizing Lidar and AI algorithms for path planning and obstacle avoidance.'
 date: 2023-08-01
 venue: 'Book Chapter, Advances in Mechanical Engineering, XV Ibero-American Congress of Mechanical Engineering'
-slidesurl: 'http://academicpages.github.io/files/slides_sensailor.pdf'
 paperurl: 'https://doi.org/10.1007/978-3-031-38563-6_65'
 citation: 'Fajardo-Pruna, M., Sanchez-Orozco, D., Torres-Medina, K., Lopez-Estrada, L., Tutiven, C., Vidal, Y. (2023). "Autonomous Navigation for an Intelligent Sailboat - Sensailor." <i>Advances in Mechanical Engineering</i>, XV Ibero-American Congress of Mechanical Engineering, Springer, 65.'
 ---
