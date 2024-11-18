@@ -52,8 +52,6 @@ redirect_from:
   Jan 2024 – Aug 2024
   * Duties: Led international engineering projects in **mechatronics** and **AI** to optimize operations across industries, including energy, water management, and automation. Designed robotic systems and implemented **AI** for operational improvements.  
 
----
-
 * **Robotics Teacher**
 
   **EDUCAR**, *Guayaquil, Ecuador*
