@@ -1,17 +1,17 @@
 ---
-title: "Autonomous Navigation for an Intelligent Sailboat - Sensailor"
+title: "Navegación autónoma para un velero inteligente - Sensailor"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-11-22-cibim-sensailor
-excerpt: 'This paper presents the development of an autonomous navigation system for the intelligent sailboat Sensailor, integrating SLAM, Lidar, and camera data for obstacle avoidance and path planning.'
+excerpt: 'Este artículo presenta el desarrollo de un sistema de navegación autónoma para el velero inteligente Sensailor, integrando SLAM, Lidar y datos de cámara para la evitación de obstáculos y planificación de trayectorias.'
 date: 2022-11-22
-venue: 'XV Ibero-American Congress of Mechanical Engineering (CIBIM 2022)'
-paperurl: 'https://doi.org/10.1007/978-3-031-38563-6_65'
-citation: 'Fajardo-Pruna, M., Sanchez-Orozco, D., Torres-Medina, K., Lopez-Estrada, L., Tutiven, C., Vidal, Y. (2022). "Autonomous Navigation for an Intelligent Sailboat - Sensailor." <i>XV Ibero-American Congress of Mechanical Engineering</i>, Madrid, Spain.'
+venue: 'XV Congreso Iberoamericano de Ingeniería Mecánica (CIBIM 2022)'
+paperurl: 'https://e-spacio.uned.es/entities/publication/7070f61c-bfde-4672-af0c-c1358018d55a'
+citation: 'Fajardo-Pruna, M., Sanchez-Orozco, D., Torres-Medina, K., Lopez-Estrada, L., Tutiven, C., Vidal, Y. (2022). "Navegación autónoma para un velero inteligente - Sensailor." <i>XV Congreso Iberoamericano de Ingeniería Mecánica</i>, Madrid, España.'
 ---
 
-This paper titled **"Autonomous Navigation for an Intelligent Sailboat - Sensailor"** was presented at the **XV Ibero-American Congress of Mechanical Engineering (CIBIM 2022)** in **Madrid, Spain**. The research focuses on the development of an **autonomous navigation system** for the **Sensailor intelligent sailboat**. This system integrates **SLAM** (Simultaneous Localization and Mapping), **Lidar**, and **camera data** for effective **obstacle avoidance** and **path planning**.
+Este artículo titulado **"Navegación autónoma para un velero inteligente - Sensailor"** fue presentado en el **XV Congreso Iberoamericano de Ingeniería Mecánica (CIBIM 2022)** en **Madrid, España**. La investigación se centra en el desarrollo de un sistema de **navegación autónoma** para el **velero inteligente Sensailor**. Este sistema integra **SLAM** (Simultaneous Localization and Mapping), **Lidar**, y **datos de cámara** para la **evitación de obstáculos** y la **planificación de trayectorias**.
 
-We presented the techniques used for **sensor fusion**, including the fusion of **Lidar point clouds** and **camera images**, to improve the navigation and **obstacle detection** capabilities of the sailboat. Additionally, we implemented algorithms for **trajectory planning** to allow the sailboat to autonomously navigate through predetermined waypoints, ensuring safe and efficient movement.
+En la presentación, discutimos las técnicas utilizadas para la **fusión de sensores**, incluyendo la fusión de **nubes de puntos Lidar** y **imágenes de cámara**, para mejorar las capacidades de navegación y detección de obstáculos del velero. Además, implementamos algoritmos para la **planificación de trayectorias**, lo que permitió al velero navegar de forma autónoma a través de puntos de paso predeterminados, garantizando un movimiento seguro y eficiente.
 
-[Read the full paper here](https://doi.org/10.1007/978-3-031-38563-6_65)
+[Leer el artículo completo aquí](https://e-spacio.uned.es/entities/publication/7070f61c-bfde-4672-af0c-c1358018d55a)
