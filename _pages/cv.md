@@ -140,5 +140,5 @@ Service and leadership
   * Coordinated outreach programs to local high schools to promote **STEM** education. Organized events where  students presented their projects in **robotics**, **AI**, and **IoT** to inspire the next generation of engineers and scientists.
     
 * **Volunteer at Church Community Kitchen**
-    *Machala, Ecuador, 2021-2024*
-    * Volunteered at the **church community kitchen**, helping to prepare and distribute meals to those in need. This role involved working with a team to provide food assistance to underprivileged individuals and families in the local community, reinforcing my commitment to social welfare and community support.
+      *Machala, Ecuador, 2021-2024*
+      * Volunteered at the **church community kitchen**, helping to prepare and distribute meals to those in need. This role involved working with a team to provide food assistance to underprivileged individuals and families in the local community, reinforcing my commitment to social welfare and community support.
