@@ -34,17 +34,40 @@ I have had the privilege of working on a variety of impactful projects, such as:
 
 ## Research Experience
 
+## Research Experience
+======
 ### **Research Technician and Researcher at TAI - ESPOL**  
 *Guayaquil, Ecuador | Sept 2024 – Present*  
-At TAI, I work on **autonomous systems** and **AI applications** for various research projects in **Smart Environments Technologies Lab**. My current work focuses on applying **TinyML** techniques to **edge devices**, enabling real-time data processing in **IoT** systems.
+At **TAI - ESPOL**, I work on advanced **autonomous systems** and **AI applications** in the **Smart Environments Technologies Lab**. My current research focuses on the application of **TinyML** techniques to **edge devices**, enabling real-time data processing for **IoT** systems. I am developing cutting-edge systems for autonomous navigation, using **SLAM** (Simultaneous Localization and Mapping) and **obstacle detection** techniques to enhance the capabilities of autonomous vehicles and systems. As part of my work, I contribute to both the development of **robotic systems** and research papers, with a focus on **AI**-driven solutions for smart environments.
 
-### **International Project Engineer - KSB**  
-*Guayaquil, Ecuador | Jan 2024 – Aug 2024*  
-Led multiple international projects that involved **robotic systems**, **mechatronic design**, and **AI** to optimize operations across various industries, from energy to water management.
+### **Research Assistant (Ad Honorem) - ESPOL**  
+*Guayaquil, Ecuador | 2021 – 2023*  
+As an **ad honorem research assistant** at **ESPOL**, I participated in several high-impact research projects focused on **robotics** and **autonomous navigation**. My work involved developing **intelligent control strategies** for **autonomous sailboats**, incorporating **TensorFlow**, **YOLO**, and **SLAM** to enable the boat to autonomously navigate and avoid obstacles. I also worked on preparing research papers, contributing to the **IEEE Ibero-American Congress of Mechanical Engineering** where I presented a paper on autonomous sailboat navigation. This experience helped me refine my skills in **AI**, **machine learning**, and **robotics**, while also improving my ability to communicate complex technical concepts through research publications and conference presentations.
 
-### **Robotics Teacher - EDUCAR**  
-*Guayaquil, Ecuador | Jul 2023 – Dec 2023*  
-I taught **robotics** and **AI** to high school students, focusing on hands-on projects that used **artificial intelligence** and **programming** to foster interest in **STEM** fields.
+### **Mechatronic Design Assistant - Robotilsa S.A.**  
+*Guayaquil, Ecuador | Feb 2022 – Jul 2022*  
+At **Robotilsa S.A.**, I participated in mechatronic design projects where I collaborated in the development and testing of **robotic systems** for various industrial applications. My work focused on **system integration** and **mechanical design**, applying my skills in **AI** to optimize performance and enhance the functionality of robotic systems. I also worked on creating **Printed Circuit Boards (PCBs)** for **robotic systems** and **flexible manufacturing systems**, improving the efficiency and reliability of automated production lines. 
+
+
+## Key Projects and Achievements
+
+- **Autonomous Sailboat Navigation**: Led the research and development of **autonomous navigation systems** for sailboats using **AI**, **SLAM**, and **YOLO** for obstacle detection and autonomous movement. This project was presented at the **IEEE Ibero-American Congress of Mechanical Engineering**.
+  
+- **Robotic Prosthesis Development**: Designed and implemented a **robotic prosthesis** using **myoelectric sensors** and **oximetry**, applying **AI** to interpret sensor data and control the prosthetic movement. This work was part of my thesis, where I utilized **reinforcement learning** to optimize the control of the prosthesis.
+  
+- **AI-Based Pneumonia Detection System**: Developed a **CNN**-based system for **pneumonia detection**, applying **deep learning** techniques to analyze medical data and provide accurate diagnosis.
+- 
+- **TinyML for Healthcare**: Led research on applying **TinyML** to healthcare, focusing on real-time **data processing** and **edge computing** for **health monitoring** systems using **low-power devices**.
+
+### **Thesis: Robotic Prosthesis with EMG and Oximetry Sensors**
+For my **thesis**, I developed a **robotic prosthesis** controlled by **EMG signals** (electromyographic signals) and **oximetry sensors**. The challenge was to train a **reinforcement learning** agent to interpret these signals and generate precise control commands for the prosthesis. The key steps included:
+- Data collection: **EMG signals** were gathered and paired with the intended prosthetic movements.
+- Signal processing: The raw **EMG signals** were filtered, normalized, and segmented into time windows.
+- Reinforcement learning: Defined the **learning environment** where the agent (neural network) interacted with the prosthesis, using **reward functions** to guide learning.
+- Evaluation: The agent was trained using **PPO**, **TRPO**, and **SAC** algorithms, achieving real-time control and precise manipulation of the prosthetic.
+
+These projects, combined with my academic background and hands-on experience, have shaped my expertise in **robotics**, **AI**, and **TinyML**, allowing me to contribute to innovative solutions in autonomous systems, prosthetics, and AI-driven technologies.
+
 
 ---
 
