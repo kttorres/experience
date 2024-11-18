@@ -50,7 +50,9 @@ redirect_from:
 
   **KSB**, *Guayaquil, Ecuador*
   Jan 2024 – Aug 2024
-  * Duties: Led international engineering projects in **mechatronics** and **AI** to optimize operations across industries, including energy, water management, and automation. Designed robotic systems and implemented **AI** for operational improvements.  
+  * Duties: Led international engineering projects in **mechatronics** to optimize operations across industries, including energy, water management, and automation. Designed robotic systems for operational improvements. 
+ I worked closely with **multidisciplinary teams** to implement sustainable and efficient solutions.
+
 
 * **Robotics Teacher**
 
