@@ -6,7 +6,6 @@ permalink: /publication/2023-08-01-myoelectric-prosthesis
 excerpt: 'This paper presents a myoelectric upper limb prosthesis controlled using sensor fusion between electromyography and pulse oximetry signals, achieving 93% prediction accuracy for user movement intentions.'
 date: 2023-08-01
 venue: 'Journal Européen des Systèmes Automatisés'
-slidesurl: 'http://academicpages.github.io/files/slides_myoelectric_prosthesis.pdf'
 paperurl: 'https://doi.org/10.18280/jesa.560413'
 citation: 'Torres, K., Espinoza, J., Asanza, V., Lorente-Leyva, L., Peluffo-Ordóñez, D. (2023). "Myoelectric Prosthesis Using Sensor Fusion Between Electromyography and Pulse Oximetry Signals." <i>Journal Européen des Systèmes Automatisés</i>, 56(4), 641-649.'
 ---
