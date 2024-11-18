@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "karen.torres.png"
   name             : "Karen Torres-Medina"
   pronouns         : "she/her"  
   bio              : "A versatile and proactive Mechatronics Engineer with expertise in AI, robotics, TinyML, and IoT. Passionate about creating impactful solutions through innovation and technology."
@@ -45,7 +45,7 @@ author:
   #bitbucket        : # Username - Update with your username on the site
   #codepen          : # Username
   #dribbble         : # Username
-  github            : "https://github.com/kttorres"
+  github            : "http://github.com/kttorres"
   #kaggle           : # Username  
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   #keybase          : # Username
   #instagram        : # Username
   #lastfm           : # Username
-  linkedin          : "https://www.linkedin.com/in/kttorres/"
+  linkedin          : "http://www.linkedin.com/in/kttorres/"
   #mastodon         : # URL
   #medium           : # URL
   #pinterest        : # Username
