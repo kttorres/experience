@@ -66,4 +66,8 @@ For my **thesis**, I developed a **robotic prosthesis** controlled by **EMG sign
 These projects, combined with my academic background and hands-on experience, have shaped my expertise in **robotics**, **AI**, and **TinyML**, allowing me to contribute to innovative solutions in autonomous systems, prosthetics, and AI-driven technologies.
 
 ---
+## Future Goals
 
+I am deeply interested in continuing to push the boundaries of **TinyML** and **AI** in embedded systems. My future projects will focus on integrating machine learning into small, efficient devices for a variety of applications, from robotics to healthcare solutions. I am also committed to advancing the development of autonomous systems.
+
+---
