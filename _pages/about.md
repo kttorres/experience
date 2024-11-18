@@ -23,20 +23,25 @@ I am currently developing **TinyML-based solutions** for embedded systems, worki
 ## Teaching & Mentoring
 In addition to my research, I have had the opportunity to teach **robotics** to high school and university students. My classes have been centered around engaging students in **hands-on projects** using platforms like **STEAM** and introducing them to foundational topics in **AI**, **machine learning**, and **robotics**. I believe in fostering creativity and critical thinking through practical exercises that bridge the gap between theory and real-world applications.
 
-## Achievements
-I have had the privilege of working on a variety of impactful projects, such as:
-- Leading a project to develop **autonomous navigation systems** for sailboats at the **Ibero-American Congress of Mechanical Engineering**.
-- Designing and implementing a **robotic prosthesis** using **myoelectric sensors** and **machine learning**.
-- Developing a **smart vacuum cleaner robot** using **machine learning** for navigation and obstacle avoidance.
-- Participating in **NASA Space Apps** with a project focused on creating **interactive AI applications**.
-
 ---
 
 ## Research Experience
 
 ### **Research Technician and Researcher at TAI - ESPOL**  
+*Guayaquil, Ecuador | 2024 – Present*  
+### **Research Technician and Researcher at TAI - ESPOL**  
 *Guayaquil, Ecuador | Sept 2024 – Present*  
-At **TAI - ESPOL**, I work on advanced **autonomous systems** and **AI applications** in the **Smart Environments Technologies Lab**. My current research focuses on the application of **TinyML** techniques to **edge devices**, enabling real-time data processing for **IoT** systems. I am developing cutting-edge systems for autonomous navigation, using **SLAM** (Simultaneous Localization and Mapping) and **obstacle detection** techniques to enhance the capabilities of autonomous vehicles and systems. As part of my work, I contribute to both the development of **robotic systems** and research papers, with a focus on **AI**-driven solutions for smart environments.
+At **TAI - ESPOL**, I focus on the development of **prototypes** and **software** for advanced **research projects** in the **Smart Environments Technologies Lab**. My work is heavily centered around the **hardware design** and **development of printed circuit boards (PCBs)** and **embedded systems**. I am responsible for designing and testing hardware components, ensuring that they integrate seamlessly into the overall research systems.
+
+I also oversee the **operation and maintenance** of **hardware prototyping equipment**, ensuring that all tools and devices are in optimal working condition to support ongoing experimental work. This is crucial for maintaining the accuracy and reliability of the systems we develop.
+
+In addition, I create **datasets** and develop **applications** using cutting-edge **artificial intelligence (AI)** and **TinyML** techniques. These solutions are applied to **machine learning** models that are used for real-time data processing and decision-making in **IoT systems**. I work closely with my team to design intelligent systems capable of adapting to dynamic environments.
+
+I assist in preparing **research project proposals** and conduct **literature reviews**, helping to shape the direction of research within the group. This includes identifying gaps in existing knowledge and proposing innovative solutions to address those challenges. 
+
+As part of my role, I also **direct projects** and **supervise prototyping** within a multidisciplinary team. This involves coordinating with various specialists, ensuring that project milestones are met, and that all work is aligned with the overall research objectives.
+
+Finally, I actively contribute to the academic side of our projects by **authoring and publishing scientific articles**. I assist in the preparation and submission of papers to various **conferences** and **journals**, helping to communicate our research findings to the wider scientific community.
 
 ### **Research Assistant (Ad Honorem) - ESPOL**  
 *Guayaquil, Ecuador | 2021 – 2023*  
