@@ -39,7 +39,7 @@ redirect_from:
 
 * **Research Technician and Researcher**
 
-* **Smart Environments Technologies Lab (TAI)**
+ **Smart Environments Technologies Lab (TAI)**
   
   **CTI - ESPOL**, *Guayaquil, Ecuador*
   Sept 2024 – Present
