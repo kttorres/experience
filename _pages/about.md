@@ -49,13 +49,12 @@ At **Robotilsa S.A.**, I participated in mechatronic design projects where I col
 
 ## Key Projects and Achievements
 
-- **Autonomous Sailboat Navigation**: Led the research and development of **autonomous navigation systems** for sailboats using **AI**, **SLAM**, and **YOLO** for obstacle detection and autonomous movement. This project was presented at the **IEEE Ibero-American Congress of Mechanical Engineering**.
+- **Autonomous Sailboat Navigation**: Developing a system for **unmanned autonomous vehicles** to navigate autonomously using **SLAM** and **obstacle detection** for sailboats using **AI**, **SLAM**, and **YOLO** for obstacle detection and autonomous movement.
   
 - **Robotic Prosthesis Development**: Designed and implemented a **robotic prosthesis** using **myoelectric sensors** and **oximetry**, applying **AI** to interpret sensor data and control the prosthetic movement. This work was part of my thesis, where I utilized **reinforcement learning** to optimize the control of the prosthesis.
   
 - **AI-Based Pneumonia Detection System**: Developed a **CNN**-based system for **pneumonia detection**, applying **deep learning** techniques to analyze medical data and provide accurate diagnosis.
-- 
-- **TinyML for Healthcare**: Led research on applying **TinyML** to healthcare, focusing on real-time **data processing** and **edge computing** for **health monitoring** systems using **low-power devices**.
+  
 
 ### **Thesis: Robotic Prosthesis with EMG and Oximetry Sensors**
 For my **thesis**, I developed a **robotic prosthesis** controlled by **EMG signals** (electromyographic signals) and **oximetry sensors**. The challenge was to train a **reinforcement learning** agent to interpret these signals and generate precise control commands for the prosthesis. The key steps included:
@@ -66,13 +65,5 @@ For my **thesis**, I developed a **robotic prosthesis** controlled by **EMG sign
 
 These projects, combined with my academic background and hands-on experience, have shaped my expertise in **robotics**, **AI**, and **TinyML**, allowing me to contribute to innovative solutions in autonomous systems, prosthetics, and AI-driven technologies.
 
-
----
-
-## Current Research Projects
-- **Autonomous Navigation for Sailboats**: Developing a system for **unmanned autonomous vehicles** to navigate autonomously using **SLAM** and **obstacle detection**.
-- **TinyML for Healthcare**: Implementing **TinyML** models to run **machine learning algorithms** on low-cost, low-power devices for real-time health monitoring.
-- **AI-based Robotics**: Designing **robotic prosthetics** and **assistive devices** powered by **AI** to enhance mobility and accessibility.
-  
 ---
 
