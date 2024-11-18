@@ -39,8 +39,7 @@ redirect_from:
 
 * **Research Technician and Researcher**
 
- **Smart Environments Technologies Lab (TAI)**
-  
+  **Smart Environments Technologies Lab (TAI)**
   **CTI - ESPOL**, *Guayaquil, Ecuador*
   Sept 2024 – Present
   * Duties: Develop prototypes and software for research projects focused on **TinyML**, **autonomous systems**, and **robotics**. Supervise prototyping, create datasets, and assist in preparing research proposals.  
