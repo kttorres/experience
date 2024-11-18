@@ -14,11 +14,11 @@ Using the **STEAM platform**, students worked on practical robotics projects tha
 
 Throughout the course, students gained both theoretical knowledge and practical experience in **AI**, **robotics**, and **programming**, preparing them to apply these skills in real-world applications. This role allowed me to not only teach but also inspire the next generation of engineers and innovators.
 
-Heading 1
-======
+#Heading 1
+=
 
-Heading 2
-======
+#Heading 2
 
-Heading 3
-======
+
+#Heading 3
+
