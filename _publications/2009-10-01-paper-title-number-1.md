@@ -1,14 +1,20 @@
 ---
-title: "Paper Title Number 1"
+title: "Myoelectric Prosthesis Using Sensor Fusion Between Electromyography and Pulse Oximetry Signals"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-08-01-myoelectric-prosthesis
+excerpt: 'This paper presents a myoelectric upper limb prosthesis controlled using sensor fusion between electromyography and pulse oximetry signals, achieving 93% prediction accuracy for user movement intentions.'
+date: 2023-08-01
+venue: 'Journal Européen des Systèmes Automatisés'
+slidesurl: 'http://academicpages.github.io/files/slides_myoelectric_prosthesis.pdf'
+paperurl: 'https://doi.org/10.18280/jesa.560413'
+citation: 'Torres, K., Espinoza, J., Asanza, V., Lorente-Leyva, L., Peluffo-Ordóñez, D. (2023). "Myoelectric Prosthesis Using Sensor Fusion Between Electromyography and Pulse Oximetry Signals." <i>Journal Européen des Systèmes Automatisés</i>, 56(4), 641-649.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper titled **"Myoelectric Prosthesis Using Sensor Fusion Between Electromyography and Pulse Oximetry Signals"** was published in the **Journal Européen des Systèmes Automatisés** in **August 2023**. The research focuses on an innovative myoelectric prosthesis that integrates **electromyography (EMG)** and **pulse oximetry (PPG)** signals for controlling an upper limb prosthesis.
+
+The model used for controlling the prosthesis achieved an impressive **93% accuracy** in predicting user movement intentions, based on **AI**-powered analysis of the bioelectric signals. This was implemented using an **ESP32 C3 DevKit-M1 development board** to create a low-cost, functional prosthetic solution.
+
+The article also discusses the challenges and solutions related to the design and signal processing stages, including the fusion of **EMG** and **PPG** signals to enhance prosthetic control. The paper highlights the advantages of this approach, such as improved mobility and precision compared to traditional prosthetics.
+
+[Read the full paper here](https://doi.org/10.18280/jesa.560413)
