@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "karen.torres.png"
+  avatar           : "karen-torres-pag.png"
   name             : "Karen Torres-Medina"
   pronouns         : "she/her"  
   bio              : "A versatile and proactive Mechatronics Engineer with expertise in AI, robotics, TinyML, and IoT. Passionate about creating impactful solutions through innovation and technology."
