@@ -44,14 +44,13 @@ redirect_from:
   **CTI - ESPOL**, *Guayaquil, Ecuador*
   Sept 2024 – Present
   * Duties: Develop prototypes and software for research projects focused on **TinyML**, **autonomous systems**, and **robotics**. Supervise prototyping, create datasets, and assist in preparing research proposals.  
-  * Supervisor: Dr. [Supervisor Name]
+  * Supervisor: Dra. María I. Mera
   
 * **International Project Engineer**
 
   **KSB**, *Guayaquil, Ecuador*
   Jan 2024 – Aug 2024
   * Duties: Led international engineering projects in **mechatronics** and **AI** to optimize operations across industries, including energy, water management, and automation. Designed robotic systems and implemented **AI** for operational improvements.  
-  * Supervisor: [Supervisor Name]
 
 ---
 
@@ -60,21 +59,19 @@ redirect_from:
   **EDUCAR**, *Guayaquil, Ecuador*
   Jul 2023 – Dec 2023
   * Duties: Taught **robotics** and **AI** to high school students. Led hands-on projects using **STEAM** to foster creativity and critical thinking. Focused on **AI**, **programming**, and **robotics** education.
-  * Supervisor: [Supervisor Name]
   
 * **Research Assistant**
 
   **ESPOL**, *Guayaquil, Ecuador*
   Apr 2022 – May 2023
   * Duties: Developed **autonomous navigation systems** for unmanned vehicles, incorporating **SLAM** and **obstacle detection**. Contributed to research on integrating **AI** and **robotics** for practical applications.
-  * Supervisor: Dr. [Supervisor Name]
+  * Supervisor: Dr. Marcelo Fajardo
   
 * **Mechatronic Design Assistant**
 
   **Robotilsa S.A.**, *Guayaquil, Ecuador*
   Feb 2022 – Jul 2022
   * Duties: Assisted in mechatronic design projects, focusing on robotic systems for industrial applications. Supported design and analysis of robotic arms and automated systems.
-  * Supervisor: [Supervisor Name]
 
 ---
 
